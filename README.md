@@ -1,9 +1,9 @@
-# django_simple_crud
+# django_simple_crud :octocat: :bangladesh:
 
 [![Python Version](https://img.shields.io/badge/python-3.8.1-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.0.1-brightgreen.svg)](https://djangoproject.com)
 
-## Running the Project Locally
+### Running the Project Locally
 
 First, clone the repository to your local machine:
 

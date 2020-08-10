@@ -1,4 +1,5 @@
 # django_simple_crud :octocat: :bangladesh:
+### Feel free to contribute
 
 [![Python Version](https://img.shields.io/badge/python-3.8.1-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.0.1-brightgreen.svg)](https://djangoproject.com)
